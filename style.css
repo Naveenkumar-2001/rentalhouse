@@ -27,8 +27,13 @@ nav{
     cursor: pointer;
 	text-decoration:none;
 	color:#ff5361;
+	margin-right: 161px;
+    margin-top: -2px;
 }
 
+.nav-links{
+	    margin-top: 19px;
+}
 .nav-links li{
     list-style: none;
     display: inline-block;
@@ -48,6 +53,7 @@ nav{
     text-decoration: none;
     font-size: 14px;
     transition: 0.5s;
+        margin-top: 19px;	
 }
 
 .register-btn:hover{
